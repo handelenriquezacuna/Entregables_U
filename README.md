@@ -1,2 +1,2 @@
 # Entregables_U
-Este repositorio va contener entregables de la Universidad Fidelitas y progreso de proyectos
+Este repositorio va contener entregables y progreso de proyectos de la Universidad Fidelitas
